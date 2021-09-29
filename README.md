@@ -3,7 +3,7 @@
 
 ## Who I am 
 
-I am a junior web developer at [Becode](https://becode.org/) and I am passionate about AI, Data, New Technology and Blockchain. 
+I am a junior web developer at [Becode](https://becode.org/) and I am passionate about **AI**, **Data**, **New Technology** and **Blockchain**. 
 
 ![](https://thumbs.gfycat.com/BronzeEnchantedHyracotherium-size_restricted.gif)
 
@@ -14,7 +14,7 @@ I can be funny and social but I need to feel comfortable with people first  :smi
 Besides to do sport, in my free time I really like to read **books** and to go to event related to **art** (music events, exhibitions, etc.). I really like all sort of art but I have a slight preference for **modern art**. To sum it up, my interests are a mix of sciences, new technologies and art. I am always up for a good conversation about those topics.
 
 
-I consider myself as a non stop learner in my career of my free time. I am also passionated about languages, I am learning German and would like later in my life to learn **danish**, **arabic** and **russian**. 
+I consider myself as a non stop learner in my career of my free time. I am also passionated about languages, I speak fluently 3 languages(Fr-EN-DT) and I have German notions (still currently learning this language). Later, I also would like to learn **Russian**. 
 
 ----------------------------------------------------------------------------------------------
 

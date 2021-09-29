@@ -44,7 +44,7 @@ I consider myself as a non stop learner in my career of my free time. I am also 
 
 
 ## Fears I might have 
-* Having to much stress
+* Having too much stress and eating too much chocolate :laughing:
 * Being stuck during hours with the same bug
 * Having trouble to reach for help
 

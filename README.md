@@ -19,7 +19,7 @@ I consider myself as a non stop learner in my career of my free time. I am also 
 ----------------------------------------------------------------------------------------------
 
 ## My three most surprising skills
-1. I speak three languages *French - Dutch - English* fluently and have notion of German
+1. I speak three languages *French - Dutch - English* fluently 
 2. I have two nationalities *Belgian - Luxembourgish*
 3. I have an amazing sense of direction 
 

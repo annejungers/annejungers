@@ -3,7 +3,7 @@
 
 ## Who I am 
 
-I am a junior web developer at [Becode](https://becode.org/) and I am passionate about **AI**, **Data**, **New Technology** and **Blockchain**. 
+I am a junior web developer at [Becode](https://becode.org/) and I am passionate about **AI**, **Data**, **Metaverse**, **NFTs**, **Generative AI** and **Blockchain**. 
 
 ![](https://thumbs.gfycat.com/BronzeEnchantedHyracotherium-size_restricted.gif)
 

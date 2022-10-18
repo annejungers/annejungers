@@ -3,7 +3,7 @@
 
 ## Who I am 
 
-I am a junior web developer at [Becode](https://becode.org/) and I am passionate about **AI**, **Data**, **Metaverse**, **NFTs**, **Generative AI** and **Blockchain**. 
+I am a junior web developer at [Becode](https://becode.org/) and I am passionate about **Blockchain** and **Web3**. 
 
 ![](https://thumbs.gfycat.com/BronzeEnchantedHyracotherium-size_restricted.gif)
 
@@ -36,7 +36,7 @@ I consider myself as a non stop learner in my career of my free time. I am also 
 
 ## Objectives I want to achieve as a Developer during my time at Becode
 * Becoming a **full stack developer**
-* Managing to incorporate AI in my developer skills
+* Managing to incorporate Blockchain in my developer skills
 * Meeting all the new interesting becode colleagues :heart_eyes:
 * Deepening my knowledge in New Technology
 * Learning the basic of *hacking* and *cybersecurity* :space_invader: :bomb:

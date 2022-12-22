@@ -3,7 +3,7 @@
 
 ## Who I am 
 
-I am a junior web developer from Belgium and I am passionate about **Blockchain** and **Web3**. 
+I am a junior web developer from Belgium :belgium: and I am passionate about **Blockchain** and **Web3**. 
 
 ![](https://thumbs.gfycat.com/BronzeEnchantedHyracotherium-size_restricted.gif)
 
